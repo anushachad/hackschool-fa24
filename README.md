@@ -20,4 +20,4 @@ Part 4 (11/5) - APIs and Express - [Slide Deck](https://acmurl.com/hackschoolfa2
 
 Part 5 (11/12) - Databases - [Slide Deck](https://acmurl.com/hackschoolfa24-5) - [Code](https://github.com/acmucsd/hackschool-fa24/tree/part5) - [Recording](https://acmurl.com/hackschoolfa24-5-video)
 
-Part 6 (11/19) - More React & Finishing Our Project
+Part 6 (11/19) - More React & Finishing Our Project - [Slide Deck](https://acmurl.com/hackschoolfa24-6) - [Code](https://github.com/acmucsd/hackschool-fa24/tree/part6) - [Recording](https://acmurl.com/hackschoolfa24-6-video)
